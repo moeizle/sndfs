@@ -1,9 +1,9 @@
 # Screen-Space Normal Distribution Function Caching for Consistent Multi-Resolution Rendering of Large Particle Data
 
+![teaser](https://user-images.githubusercontent.com/30932170/65540916-52820400-deda-11e9-9a8c-76e41b3bf777.png)
+
 > This repository contains a GPU based implementation of the paper: ["Screen-Space Normal Distribution Function Caching for Consistent Multi-Resolution Rendering of Large Particle Data"](https://ieeexplore.ieee.org/abstract/document/8017605) 
 > The paper is implemented in C++, OpenGL and GLSL in Visual Studio on a Windows machine.
-
-![Alt text](sndfs/figures/sndfExplorerWidget.png)
 
 ### Prerequisites
 This code was tested with:
@@ -47,6 +47,8 @@ This code was tested with:
 |Add a new slize | left click in white space in the widget|
 |Move slice|left click on slice, then hold left click and move|
 |Increase/decrease slice range|left click on slice, then hold right click and move|
+
+<img width="1212" alt="sndfExplorerWidget" src="https://user-images.githubusercontent.com/30932170/65540429-5eb99180-ded9-11e9-9baf-295afed650a3.png">
 
 ### Citation
 ###
