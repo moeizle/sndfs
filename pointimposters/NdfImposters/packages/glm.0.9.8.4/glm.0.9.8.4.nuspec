@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>glm</id>
+    <version>0.9.8.4</version>
+    <title>GLM</title>
+    <authors>GLM contributors</authors>
+    <owners>GLM contributors</owners>
+    <licenseUrl>http://opensource.org/licenses/MIT</licenseUrl>
+    <projectUrl>http://glm.g-truc.net/</projectUrl>
+    <iconUrl>http://glm.g-truc.net/common/logo.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>GLM provides classes and functions designed and implemented with the same naming conventions and functionalities than GLSL so that when a programmer knows GLSL, he knows GLM as well which makes it really easy to use.
+
+This project isn't limited to GLSL features. An extension system, based on the GLSL extension conventions, provides extended capabilities: matrix transformations, quaternions, half-based types, random numbers, procedural noise functions, etc...
+
+This library works perfectly with OpenGL but it also ensures interoperability with third party libraries and SDKs. It is a good candidate for software rendering (Raytracing / Rasterisation), image processing, physic simulations and any context that requires a simple and convenient mathematics library. 
+					
+ This library works perfectly with OpenGL but it also ensures interoperability with other third party libraries and SDK. It is a good candidate for software rendering (raytracing / rasterisation), image processing, physic simulations and any development context that requires a simple and convenient mathematics library. 
+  
+GLM is written in C++98 but can take advantage of C++11 when supported by the compiler. It is a platform independent library with no dependence and it officially supports the following compilers: 
+- Clang 2.6  and higher
+- CUDA 3.0 and higher
+- GCC 3.4 and higher
+- Intel C++ Composer XE 2013 and higher
+- LLVM 2.3 through GCC 4.2 front-end and higher
+- Visual Studio 2005 and higher
+- Any conform C++98 or C++11 compiler</description>
+    <summary>OpenGL Mathematics (GLM) is a header only C++ mathematics library for graphics software based on the OpenGL Shading Language (GLSL) specification.</summary>
+    <releaseNotes>Summary of changes made in this release of the package.</releaseNotes>
+    <copyright>Copyright 2015</copyright>
+    <tags>OpenGL native CoApp nativepackage</tags>
+  </metadata>
+</package>

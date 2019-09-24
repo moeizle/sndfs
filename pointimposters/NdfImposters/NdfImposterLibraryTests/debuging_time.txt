@@ -1,0 +1,372 @@
+Level of Detail: 1.71754
+Image Resolution: 622 x 622
+Visible Tiles: 81 out of 100
+Particle count: 291838
+All visible inds: 291838
+
+Level of Detail: 1.93223
+Image Resolution: 536 x 536
+Visible Tiles: 81 out of 81
+Particle count: 291838
+All visible inds: 291838
+
+Level of Detail: 1.6907
+Image Resolution: 634 x 634
+Visible Tiles: 81 out of 100
+Particle count: 291838
+All visible inds: 291838
+
+Level of Detail: 1.47936
+Image Resolution: 734 x 734
+Visible Tiles: 81 out of 144
+Particle count: 291838
+All visible inds: 291838
+
+Level of Detail: 1.29444
+Image Resolution: 834 x 834
+Visible Tiles: 81 out of 196
+Particle count: 291838
+All visible inds: 291838
+
+Level of Detail: 1.13264
+Image Resolution: 934 x 934
+Visible Tiles: 81 out of 225
+Particle count: 291838
+All visible inds: 291838
+
+Level of Detail: 0.991057
+Image Resolution: 1030 x 1030
+Visible Tiles: 81 out of 289
+Particle count: 291838
+All visible inds: 291838
+
+Level of Detail: 0.867175
+Image Resolution: 1122 x 1122
+Visible Tiles: 81 out of 324
+Particle count: 291838
+All visible inds: 291838
+
+Level of Detail: 0.758778
+Image Resolution: 1210 x 1210
+Visible Tiles: 81 out of 361
+Particle count: 291838
+All visible inds: 291838
+
+Level of Detail: 0.663931
+Image Resolution: 1292 x 1292
+Visible Tiles: 81 out of 441
+Particle count: 291838
+All visible inds: 291838
+
+Level of Detail: 0.58094
+Image Resolution: 1369 x 1369
+Visible Tiles: 81 out of 484
+Particle count: 291838
+All visible inds: 291838
+
+Level of Detail: 0.508322
+Image Resolution: 1439 x 1439
+Visible Tiles: 81 out of 529
+Particle count: 291838
+All visible inds: 291827
+
+Level of Detail: 0.444782
+Image Resolution: 1504 x 1504
+Visible Tiles: 81 out of 576
+Particle count: 291838
+All visible inds: 291011
+
+Level of Detail: 0.389184
+Image Resolution: 1563 x 1563
+Visible Tiles: 81 out of 625
+Particle count: 291838
+All visible inds: 287797
+
+Level of Detail: 0.340536
+Image Resolution: 1617 x 1617
+Visible Tiles: 81 out of 676
+Particle count: 291838
+All visible inds: 281912
+
+Level of Detail: 0.297969
+Image Resolution: 1665 x 1665
+Visible Tiles: 81 out of 729
+Particle count: 291838
+All visible inds: 274066
+
+Level of Detail: 0.260723
+Image Resolution: 1709 x 1709
+Visible Tiles: 81 out of 729
+Particle count: 291838
+All visible inds: 265178
+
+Level of Detail: 0.228133
+Image Resolution: 1748 x 1748
+Visible Tiles: 81 out of 784
+Particle count: 291838
+All visible inds: 255835
+
+Level of Detail: 0.199616
+Image Resolution: 1783 x 1783
+Visible Tiles: 81 out of 784
+Particle count: 291838
+All visible inds: 246443
+
+Level of Detail: 0.174664
+Image Resolution: 1814 x 1814
+Visible Tiles: 81 out of 841
+Particle count: 291838
+All visible inds: 237274
+
+Level of Detail: 0.152831
+Image Resolution: 1842 x 1842
+Visible Tiles: 81 out of 841
+Particle count: 291838
+All visible inds: 228631
+
+Level of Detail: 0.133727
+Image Resolution: 1866 x 1866
+Visible Tiles: 81 out of 900
+Particle count: 291838
+All visible inds: 220415
+
+Level of Detail: 0.117011
+Image Resolution: 1888 x 1888
+Visible Tiles: 81 out of 900
+Particle count: 291838
+All visible inds: 212993
+
+Level of Detail: 0.102385
+Image Resolution: 1907 x 1907
+Visible Tiles: 81 out of 900
+Particle count: 291838
+All visible inds: 206260
+
+Level of Detail: 0.0895868
+Image Resolution: 1924 x 1924
+Visible Tiles: 81 out of 961
+Particle count: 291838
+All visible inds: 200219
+
+Level of Detail: 0.0783884
+Image Resolution: 1939 x 1939
+Visible Tiles: 81 out of 961
+Particle count: 291838
+All visible inds: 194921
+
+Level of Detail: 0.0685899
+Image Resolution: 1952 x 1952
+Visible Tiles: 81 out of 961
+Particle count: 291838
+All visible inds: 190224
+
+Level of Detail: 0.0600161
+Image Resolution: 1964 x 1964
+Visible Tiles: 81 out of 961
+Particle count: 291838
+All visible inds: 186008
+
+Level of Detail: 0.0525141
+Image Resolution: 1974 x 1974
+Visible Tiles: 81 out of 961
+Particle count: 291838
+All visible inds: 182349
+
+Level of Detail: 0.0459499
+Image Resolution: 1983 x 1983
+Visible Tiles: 81 out of 961
+Particle count: 291838
+All visible inds: 179069
+
+Level of Detail: 0.0402061
+Image Resolution: 1991 x 1991
+Visible Tiles: 81 out of 1024
+Particle count: 291838
+All visible inds: 176186
+
+Level of Detail: 0.0351804
+Image Resolution: 1998 x 1998
+Visible Tiles: 81 out of 1024
+Particle count: 291838
+All visible inds: 173666
+
+Level of Detail: 0.0307828
+Image Resolution: 2004 x 2004
+Visible Tiles: 81 out of 1024
+Particle count: 291838
+All visible inds: 171497
+
+Level of Detail: 0.026935
+Image Resolution: 2010 x 2010
+Visible Tiles: 81 out of 1024
+Particle count: 291838
+All visible inds: 169553
+
+Level of Detail: 0.0235681
+Image Resolution: 2014 x 2014
+Visible Tiles: 81 out of 1024
+Particle count: 291838
+All visible inds: 167848
+
+Level of Detail: 0.0206221
+Image Resolution: 2018 x 2018
+Visible Tiles: 81 out of 1024
+Particle count: 291838
+All visible inds: 166283
+
+Level of Detail: 0.0180443
+Image Resolution: 2022 x 2022
+Visible Tiles: 81 out of 1024
+Particle count: 291838
+All visible inds: 164992
+
+Level of Detail: 0.0157888
+Image Resolution: 2025 x 2025
+Visible Tiles: 81 out of 1024
+Particle count: 291838
+All visible inds: 163906
+
+Level of Detail: 0.0138152
+Image Resolution: 2028 x 2028
+Visible Tiles: 81 out of 1024
+Particle count: 291838
+All visible inds: 162917
+
+Level of Detail: 0.0120883
+Image Resolution: 2030 x 2030
+Visible Tiles: 81 out of 1024
+Particle count: 291838
+All visible inds: 162065
+
+Level of Detail: 0.0105772
+Image Resolution: 2033 x 2033
+Visible Tiles: 81 out of 1024
+Particle count: 291838
+All visible inds: 161313
+
+Level of Detail: 0.00925509
+Image Resolution: 2034 x 2034
+Visible Tiles: 81 out of 1024
+Particle count: 291838
+All visible inds: 160599
+
+Level of Detail: 0.0080982
+Image Resolution: 2036 x 2036
+Visible Tiles: 81 out of 1024
+Particle count: 291838
+All visible inds: 160033
+
+Level of Detail: 0.00708593
+Image Resolution: 2037 x 2037
+Visible Tiles: 81 out of 1024
+Particle count: 291838
+All visible inds: 159560
+
+Level of Detail: 0.00620019
+Image Resolution: 2039 x 2039
+Visible Tiles: 81 out of 1024
+Particle count: 291838
+All visible inds: 159086
+
+Level of Detail: 0.00542516
+Image Resolution: 2040 x 2040
+Visible Tiles: 81 out of 1024
+Particle count: 291838
+All visible inds: 158703
+
+Level of Detail: 0.00474702
+Image Resolution: 2041 x 2041
+Visible Tiles: 81 out of 1024
+Particle count: 291838
+All visible inds: 158330
+
+Level of Detail: 0.00415364
+Image Resolution: 2042 x 2042
+Visible Tiles: 81 out of 1024
+Particle count: 291838
+All visible inds: 158051
+
+Level of Detail: 0.00363444
+Image Resolution: 2042 x 2042
+Visible Tiles: 81 out of 1024
+Particle count: 291838
+All visible inds: 157838
+
+Level of Detail: 0.00318013
+Image Resolution: 2043 x 2043
+Visible Tiles: 81 out of 1024
+Particle count: 291838
+All visible inds: 157579
+
+Level of Detail: 0.00278262
+Image Resolution: 2044 x 2044
+Visible Tiles: 81 out of 1024
+Particle count: 291838
+All visible inds: 157402
+
+Level of Detail: 0.00243479
+Image Resolution: 2044 x 2044
+Visible Tiles: 81 out of 1024
+Particle count: 291838
+All visible inds: 157170
+
+Level of Detail: 0.00213044
+Image Resolution: 2044 x 2044
+Visible Tiles: 81 out of 1024
+Particle count: 291838
+All visible inds: 157040
+
+Level of Detail: 0.00186414
+Image Resolution: 2045 x 2045
+Visible Tiles: 81 out of 1024
+Particle count: 291838
+All visible inds: 156930
+
+Level of Detail: 0.00163112
+Image Resolution: 2045 x 2045
+Visible Tiles: 81 out of 1024
+Particle count: 291838
+All visible inds: 156805
+
+Level of Detail: 0.00142723
+Image Resolution: 2045 x 2045
+Visible Tiles: 81 out of 1024
+Particle count: 291838
+All visible inds: 156723
+
+Level of Detail: 0.00124882
+Image Resolution: 2046 x 2046
+Visible Tiles: 81 out of 1024
+Particle count: 291838
+All visible inds: 156604
+
+Level of Detail: 0.00109272
+Image Resolution: 2046 x 2046
+Visible Tiles: 81 out of 1024
+Particle count: 291838
+All visible inds: 156505
+
+Level of Detail: 0.000956131
+Image Resolution: 2046 x 2046
+Visible Tiles: 81 out of 1024
+Particle count: 291838
+All visible inds: 156392
+
+Level of Detail: 0.000836615
+Image Resolution: 2046 x 2046
+Visible Tiles: 81 out of 1024
+Particle count: 291838
+All visible inds: 156392
+
+Level of Detail: 0.000732038
+Image Resolution: 2046 x 2046
+Visible Tiles: 81 out of 1024
+Particle count: 291838
+All visible inds: 156284
+
+Level of Detail: 0.000640533
+Image Resolution: 2047 x 2047
+Visible Tiles: 81 out of 1024
+Particle count: 291838
+All visible inds: 156254
+
