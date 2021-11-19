@@ -1,4 +1,5 @@
 #include "NdfSampler.h"
+#include <cmath>
 
 using namespace NdfImposters;
 

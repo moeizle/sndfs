@@ -1,5 +1,6 @@
 #ifndef EXPECTATION_MAXIMIZATION_H_
 #define EXPECTATION_MAXIMIZATION_H_
+#include <iterator>
 
 #if 1
 #include "NdfTree.h"
