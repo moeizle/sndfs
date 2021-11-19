@@ -31,7 +31,6 @@ uniform vec3 up;
 in vec2 rayOffset[1];
 
 out vec2 texCoord;
-out int gl_PrimitiveID;
 
 layout(points) in;
 layout(triangle_strip, max_vertices = 4) out;

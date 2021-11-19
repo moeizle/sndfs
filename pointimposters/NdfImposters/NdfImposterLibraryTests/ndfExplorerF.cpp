@@ -1,7 +1,6 @@
 #version 430
 
 uniform vec3 color;
-in int gl_PrimitiveID;
 layout(location = 0) out vec4 outFragColor;
 
 
