@@ -4,8 +4,6 @@
 uniform mat4 Projection;
 uniform mat4 ModelView;
 
-out int gl_PrimitiveID;
-
 layout(triangles) in;
 layout(triangle_strip, max_vertices = 3) out;
 

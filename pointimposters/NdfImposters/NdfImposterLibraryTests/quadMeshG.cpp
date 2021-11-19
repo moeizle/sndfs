@@ -28,11 +28,6 @@ uniform int pointCloudRendering;
 uniform vec3 right;
 uniform vec3 up;
 
-
-
-
-out int gl_PrimitiveID;
-
 layout(lines_adjacency) in;
 layout(triangle_strip, max_vertices = 4) out;
 

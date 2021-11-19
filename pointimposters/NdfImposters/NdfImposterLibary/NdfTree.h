@@ -9,6 +9,7 @@
 
 #include <glm/vec2.hpp>
 #include <glm/vec3.hpp>
+#include <string>
 
 namespace NdfImposters {
 	template <typename BinType> class NdfTreeLevel;

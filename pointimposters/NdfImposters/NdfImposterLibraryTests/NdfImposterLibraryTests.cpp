@@ -24,6 +24,7 @@
 #include <future>
 #include <chrono>
 #include <forward_list>
+#include <algorithm>
 
 #include "FreeImage.h"
 #include "region.h"
@@ -12137,7 +12138,7 @@ void keyboard(unsigned char key, int mx, int my) {
 		//}
 		//reset();
 		maxSamplingRunsFactor /= 2.0f;
-		maxSamplingRunsFactor = std::max(std::pow(2.f, -64), maxSamplingRunsFactor);
+		maxSamplingRunsFactor = (std::max<float>)(std::pow(2.f, -64), maxSamplingRunsFactor);
 		maxSamplingRuns = std::max(1.0*maxSamplingRunsFactor, pow(4, std::floor(current_lod - lodDelta))*maxSamplingRunsFactor);
 		std::cout << "max sampling runs factor decreased to: " << maxSamplingRunsFactor << std::endl;
 		std::wcout << "max sampling runs decreased to: " << maxSamplingRuns << std::endl;
